@@ -1,19 +1,24 @@
-# Edit a Material
 
-----
 
-Use the Material Editor to make materials appear exactly as you want.
+# マテリアルを編集する
 
-The texture, color, and other properties of Materials can be modified in the Material Editor.
+---
 
-## Edit a Material
+マテリアル エディタを使用して、マテリアルを希望どおりに正確に表示します。
 
-1. Tap the Edit button in the Material Palette
-2. Tap the material you wish to edit
+テクスチャ、カラーなど、マテリアルのプロパティはマテリアル エディタで修正できます。
+
+## マテリアルを編集する
+
+1. マテリアル パレットの[編集]ボタンをタップします。
+2. 編集するマテリアルをタップします。
 
 3. ![](Images/GUID-1D5FFE05-ADF6-44BF-BEAF-760977A8BA7F-low.png)
 
-4. From the Edit Material window, you can change the following properties - which will update the preview image on the right. 
-    * *Texture*:Textures are images loaded from your Photo Library or camera. Once imported, you can crop, and edit the horizontal and vertical scale of the texture.
-    * *Color*: When a material has both texture and color, the two are multiplied together.
-5. Click OK to save the changes to the material.
+4. [マテリアルを編集]ウィンドウでは、次のプロパティを変更できます。変更すると、右側にあるプレビュー イメージが更新されます。
+
+* *テクスチャ*: テクスチャはフォト ライブラリまたはカメラからロードされるイメージです。 読み込まれると、テクスチャの水平スケールと垂直スケールをトリミング、編集できます。
+* *カラー*: マテリアルにテクスチャとカラーの両方を設定すると、それらが掛け合わせられます。
+
+5. [OK]をクリックして、マテリアルの変更内容を保存します。
+

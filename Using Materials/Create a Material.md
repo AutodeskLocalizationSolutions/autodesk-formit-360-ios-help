@@ -1,36 +1,35 @@
-# Create a Material
 
-----
 
-Use the Material Editor to create new materials to use in your scene.
+# マテリアルを作成する
 
-You can create your own materials based on custom bitmap files.
+---
 
-### Create a Material
+マテリアル エディタを使用して、シーンで使用する新しいマテリアルを作成します。
 
-1. Tap the "+" button in the Material Palette
-2. Choose a bitmap to use for the material
+カスタム ビットマップ ファイルに基づいて独自のマテリアルを作成できます。
 
-Load an image from a file, or even take a photo with a tablet.
+### マテリアルを作成する
+
+1. マテリアル パレットの[+]ボタンをタップします。
+2. マテリアルに使用するビットマップを選択します。
+
+ファイルからイメージをロードするか、タブレットで写真を撮影します。
 
 ![](Images/GUID-F571F0F3-FBF2-4B1F-8BD3-3B81413C1F69-low.png)
 
-1. Choose a color for the material. The color will blend with any bitmap that may have been loaded.
+1. マテリアルのカラーを設定します。 ビットマップがロードされた場合、カラーはそのビットマップとブレンドされます。
 
+* カメラ ロールまたはフォト ライブラリからテクスチャが読み込まれます。読み込まれたら、[マテリアルのトリミング]ツールを使用してテクスチャのマッピングを編集できます。テクスチャをトリムして、垂直方向と水平方向のタイル スケールをメートルまたはフィート単位で定義することができます。
 
-* Textures are imported from your Camera Roll or Photo Library. Once imported, you can edit the texture's mapping using the Material Crop tool. You can crop textures to define the vertical and horizontal tile scale in meters or feet. 
-    
-    ![](Images/GUID-D845F355-9EBA-4AA9-A0F0-96B397721E49-low.jpg)
+![](Images/GUID-D845F355-9EBA-4AA9-A0F0-96B397721E49-low.jpg)
 
+## オートデスク マテリアルを読み込む
 
-## Import an Autodesk Material ![](Images/GUID-04CB861E-010B-491D-8CA1-699C79100979-low.png)
+オプションの [FormIt 360 Pro Subscription](http://www.autodesk.com/products/formit-360/try-buy) を購入している場合、Autodesk Materials Library からマテリアルを読み込むことができます。
 
-If you have purchased the optional [FormIt 360 Pro Subscription](http://www.autodesk.com/products/formit-360/try-buy), you will be able to import materials from the Autodesk Materials library.
-
-
-1. Tap Import Material from the Material Palette.
-2. From the Import Material, browse or search by name to select a material to import into the scene and tap Import.
-3. The material can now be applied or [edited](../Edit a Material.md) like any other material.
-
+1. マテリアル パレットで[マテリアルを読み込む]をタップします。
+2. [マテリアルを読み込む]で、シーンに読み込むマテリアルを参照するか、名前で検索して選択し、[読み込み]をタップします。
+3. マテリアルが、他のマテリアルと同様に適用または[編集](../Edit a Material.md)できるようになります。
 
 ![](Images/GUID-636582A1-68FB-4DC2-8442-FD394394AFB6-low.png)
+

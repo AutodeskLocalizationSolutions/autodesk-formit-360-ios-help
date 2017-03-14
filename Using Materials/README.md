@@ -1,32 +1,32 @@
-# Using Materials
 
-----
 
-Enrich and enhance designs using Materials to add detail.
- 
+# マテリアルを使用する
 
-The Material Editor is located in the right-side palette. In the Editor, you can create new materials and add them to your Material Library. To add color to a material, you can use the color picker to accurately set the tint for the material or select a predefined color swatch.
+---
 
-The widgets provided by the Materials Editor allow you to:
+マテリアルを使用して詳細を追加することにより、内容が充実した高度な設計を作成できます。
 
-## Apply a Material
+マテリアル エディタは右側のパレットにあります。エディタで新しいマテリアルを作成し、[マテリアル ライブラリ]に追加できます。マテリアルにカラーを追加するには、カラー ピッカーを使用してマテリアルの着色を正確に設定するか、設定済みの色見本を選択します。
 
-1. To apply a material, first select a face or object.
-2. Tap the tab on the right side of the screen and tap the icon for the Material Editor.
-3. Choose a material from the displayed selection, or create your own. 
-    
-    ![](Images/GUID-D0F6979D-2188-46B5-A1BF-3CE251CF918F-low.png)
+マテリアル エディタにあるウィジェットでは、次の操作を行うことができます。
 
-When applied to the sketch, materials will be added to a list of already used materials for easy access. A material can have a texture (bitmap) and/or color. When a material has both texture and color, the two are blended together.
+## マテリアルを適用する
 
-  
+1. マテリアルを適用するには、最初に面またはオブジェクトを選択します。
+2. 画面の右側にあるタブをタップし、マテリアル エディタのアイコンをタップします。
+3. 表示される選択項目からマテリアルを選択するか、独自のマテリアルを作成します。
 
-#### Topics in this section
+![](Images/GUID-D0F6979D-2188-46B5-A1BF-3CE251CF918F-low.png)
 
-* [Create a Material](../Create a Material.md)
-    
-    Use the Material Editor to create new materials to use in your scene.
-* [Edit a Material](../Edit a Material.md)
-    
-    Use the Material Editor to make materials appear exactly as you want.
+マテリアルをスケッチに適用すると、既に使用されているマテリアルのリストに追加されるため、簡単にアクセスできるようになります。マテリアルにはテクスチャ(ビットマップ)やカラーを設定できます。マテリアルにテクスチャとカラーの両方を設定した場合は、それらがブレンドされます。
+
+#### このセクションの内容
+
+* [マテリアルを作成する](../Create a Material.md)
+
+マテリアル エディタを使用して、シーンで使用する新しいマテリアルを作成します。
+
+* [マテリアルを編集する](../Edit a Material.md)
+
+マテリアル エディタを使用して、マテリアルを希望どおりに正確に表示します。
 

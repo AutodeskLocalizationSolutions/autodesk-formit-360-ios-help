@@ -1,12 +1,15 @@
-# Modify: Boolean Operations
 
-----
 
-Use Join and Cut operations to alter objects.
+# 修正: ブール演算
 
-1. ![](Images/GUID-2CB526DC-1AB2-4F17-AF26-DC00141D8D41-low.gif)Union: To perform a union, select all the objects you want to boolean. Then, select the union tool from the context menu. The intersecting/overlapping portion of the geometry will be united into one object.
-2. ![](Images/GUID-D407517D-0455-444F-AC2B-A26AB47052B5-low.gif)Subtract: To subtract volumes from existing geometry, first select the original object.
-3. Next, select the object you want to subtract from it.
-4. Then, select the subtract tool from the context menu.
+---
 
-The intersection volume will be subtracted from the original object.
+結合(論理和演算)および切り取り(論理差演算)を使用して、オブジェクトを変更することができます。
+
+1. ![](Images/GUID-2CB526DC-1AB2-4F17-AF26-DC00141D8D41-low.gif)論理和: 論理和演算を実行するには、演算対象のすべてのオブジェクトを選択します。 次に、コンテキスト メニューで論理和ツールを選択します。ジオメトリの交差部分と重複部分が、1 つのオブジェクトとして結合されます。
+2. ![](Images/GUID-D407517D-0455-444F-AC2B-A26AB47052B5-low.gif)論理差: 既存のジオメトリの体積を減らすには、元のオブジェクトを選択し、
+3. そのオブジェクトから切り取るオブジェクトを選択します。
+4. 次に、コンテキスト メニューで論理差ツールを選択します。
+
+交差している部分の体積が、元のオブジェクトから減算されます。
+

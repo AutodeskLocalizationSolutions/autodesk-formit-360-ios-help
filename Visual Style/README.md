@@ -1,16 +1,16 @@
-# Visual Style
 
-----
 
-Choose the appearance style that best suits your purpose.
-  
-* Visual style includes the display of ambient shadows, hidden/sketchy lines, grid display/units, and levels.![](Images/GUID-04E59A97-2913-4E31-8A52-EF7FE03CC67B-low.png)
+# 表示スタイル
 
-  
+---
 
-#### Topics in this section
+用途に最適な外観スタイルを選択します。
 
-* [Visual Format Options ](../Visual Format Options.md)
-    
-    Description of choices for visual style.
+* 表示スタイルでは、アンビエント シャドウ、隠線、手書き風の線、グリッドの表示/単位、レベルなどの表示設定を行うことができます。![](Images/GUID-04E59A97-2913-4E31-8A52-EF7FE03CC67B-low.png)
+
+#### このセクションの内容
+
+* [表示形式のオプション](../Visual Format Options.md)
+
+表示スタイルの選択肢について説明しています。
 

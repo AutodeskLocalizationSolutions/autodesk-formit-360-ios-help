@@ -1,22 +1,24 @@
-# Import 3D Models and Images
 
-----
 
-Add overlays and images to your designs for a variety of purposes.
- 
+# 3D モデルとイメージを読み込む
 
-Ground overlays add additional information to your sketch or provide a schematic to trace over.
+---
+
+さまざまな目的に応じてオーバーレイやイメージを設計に追加します。
+
+地面オーバーレイを使用して、スケッチに追加情報を追加したり、トレース用の配置図を指定することができます。
 
 ![](Images/GUID-27C70A25-8F70-48EB-B320-A3A5A19A679E-low.png)
 
-1. Select an image or 3D model from your local or A360 storage area.
+1. ローカルまたは A360 の記憶領域からイメージまたは 3D モデルを選択します。
 
 ![](Images/GUID-0B507623-A63D-4EC4-AC50-3B58AA187D8A-low.png)
 
-You will have the option to scale and crop your image. Your image will then be imported into the canvas.
+イメージは拡大/縮小およびトリミングできます。その後、イメージをキャンバスに読み込みます。
 
-1. Use the palette on the right-side of the screen to modify image properties.
+1. 画面の右側にあるパレットを使用して、イメージのプロパティを修正します。
 
-Edit the image's name and transparency, if needed. Manage the vertical ordering of various ground overlays including the satellite image.
+必要に応じて、イメージの名前と透過度を編集します。衛星画像を含め、さまざまな地面オーバーレイの縦方向の表示を管理します。
 
 ![](Images/GUID-578B6BC6-50DD-4AD4-8BE1-8B232EC66E59-low.png)
+

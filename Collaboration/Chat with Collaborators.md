@@ -1,10 +1,12 @@
-# Chat with Collaborators
 
-----
 
-Engage in dialog as you design.
- 
+# 共有メンバーとチャットする
 
-* Use the Messages feature in to instant message other collaborators. Just type in your message and keep track of your correspondence during the sharing session. 
-    
-    ![](Images/GUID-854D2503-24C9-4F16-ABBC-8732EC90570A-low.png)
+---
+
+設計時にメンバーと会話します。
+
+* インスタント メッセージの[メッセージ]機能を使用して、共有メンバーにメッセージを送信します。共有セッション中にメッセージを入力すれば、メッセージが記録されます。
+
+![](Images/GUID-854D2503-24C9-4F16-ABBC-8732EC90570A-low.png)
+

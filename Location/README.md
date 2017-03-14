@@ -1,29 +1,30 @@
-# Location
 
-----
 
-Define a geographic location to make use of building performance and climate data with your designs.
- 
+# 位置
 
-To maximize the functionality of your designs, you should define the geographic location of your sketch using the Location feature. Setting the location is important when you want to use Building Performance data while designing. See Building Performance for more details.
+---
+
+地理的位置を設定し、建物パフォーマンスと気象データを設計に利用します。
+
+設計の機能を最大化するには、位置機能を使用してスケッチの地理的位置を設定する必要があります。設計中に建物パフォーマンス データを使用する場合、位置を設定することは重要です。詳細については、「建物パフォーマンス」を参照してください。
 
 ![](Images/GUID-F489C3C9-154C-4097-9981-C1321DA1D0F6-low.png)
 
-* You can import geometry from your local file system using OBJ or AXM formats. Just click on the import icon from the toolbar and choose Import 3D Model. 
-    
-    ![](Images/GUID-59B9F4CA-A326-4287-AEB2-7A9505C0A531-low.jpg)
-NoteYou can also drag and drop an OBJ or AXM file from your system onto your canvas.
-  
+* OBJ または AXM 形式を使用して、ローカル ファイル システムからジオメトリを読み込むことができます。単にツールバーの[読み込み]アイコンをクリックし、[3D モデルの読み込み]を選択します。
 
-#### Topics in this section
+![](Images/GUID-59B9F4CA-A326-4287-AEB2-7A9505C0A531-low.jpg) 注: システムからキャンバスへ OBJ または AXM ファイルをドラッグ アンド ドロップすることもできます。
 
-* [Set a Location](../Set a Location.md)
-    
-    Establish a geographic location for your sketch.
-* [Satellite Image Import](../Satellite Image Import.md)
-    
-    Add detail and realism to your design.
-* [Edit, Reload, or Remove a Satellite Image](../Edit, Reload, or Remove a Satellite Image.md)
-    
-    Make changes to your location images.
+#### このセクションの内容
+
+* [位置を設定する](../Set a Location.md)
+
+スケッチの地理的位置を確定します。
+
+* [衛星画像を読み込む](../Satellite Image Import.md)
+
+詳細を追加して設計に現実感を加えます。
+
+* [衛星画像を編集、再ロード、または削除する](../Edit, Reload, or Remove a Satellite Image.md)
+
+位置のイメージを変更します。
 

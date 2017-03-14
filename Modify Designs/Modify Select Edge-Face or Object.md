@@ -1,9 +1,12 @@
-# Modify: Select Edge/Face or Object
 
-----
 
-Choosing an object or surface is the first step to making modifications.
+# 修正: エッジ、面、またはオブジェクトを選択する
 
-1. ![](Images/GUID-7AC531A9-173F-49A2-BB8E-A376BAA81A2B-low.gif)To select a face, edge or vertex, hover over them - then single tap to select.
-2. ![](Images/GUID-75B50B26-8F61-4567-8F57-7A058C316111-low.gif)To select an entire object, double tap the object.
-3. ![](Images/GUID-3FCDAF33-668A-44F1-8E2F-C0B22AC2A922-low.gif)For more precise control in selecting multiple pieces of geometry simultaneously, use the lasso tool. You can select it from the context menu after tapping over the empty canvas. Then draw a line around your desired selection area.
+---
+
+オブジェクトやサーフェスを修正するには、最初にそのオブジェクトやサーフェスを選択する必要があります。
+
+1. ![](Images/GUID-7AC531A9-173F-49A2-BB8E-A376BAA81A2B-low.gif)面、エッジ、または頂点を選択するには、そのいずれかをシングルタップします。
+2. ![](Images/GUID-75B50B26-8F61-4567-8F57-7A058C316111-low.gif)オブジェクト全体を選択するには、対象のオブジェクトをダブルタップします。
+3. ![](Images/GUID-3FCDAF33-668A-44F1-8E2F-C0B22AC2A922-low.gif)複数のジオメトリをより正確に選択するには、投げ縄ツールを使用します。 空のキャンバス内をタップすると、コンテキスト メニューに投げ縄ツールが表示されます。投げ縄ツールを使用して、対象となる選択領域を囲むように線を描画します。
+

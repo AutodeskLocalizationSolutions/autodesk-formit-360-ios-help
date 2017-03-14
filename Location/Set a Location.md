@@ -1,19 +1,23 @@
-# Set a Location
 
-----
 
-Establish a geographic location for your sketch.
+# 位置を設定する
 
-## Identify Your Location
+---
 
-1. ![](Images/GUID-45268F36-37CA-468C-B326-9DB28FFA5534-low.png) To set the location of your sketch, tap on the Location icon from the bottom action bar. You can either use the Search window to search for a specific location or use the map to browse for a location.
+スケッチの地理的位置を確定します。
 
-If you use the Search window, choose the location from the list offered.
+## 位置を識別する
 
-1. After you have found your location, adjust the zoom level so you see your desired context.
-2. Tap the map to add the red pin to your location if not already there.
-3. Tap on 'Import Satellite Image' to see the aerial photo to your location. 
-    
-    ![](Images/GUID-9D98799F-8780-4B59-95B6-F9DC6137BFF2-low.png)
-4. Zoom in or out to get the proper orientation.
-5. Tap Finish Importing to complete the operation.
+1. ![](Images/GUID-45268F36-37CA-468C-B326-9DB28FFA5534-low.png) スケッチの位置を設定するには、下部にあるアクションバーで[位置]アイコンをタップします。 [検索]ウィンドウで特定の位置を検索するか、マップを使用して位置を参照します。
+
+[検索]ウィンドウを使用する場合は、表示される一覧から位置を選択します。
+
+1. 目的の位置が見つかったら、必要なコンテキストを確認できるように、ズーム レベルを調整します。
+2. 赤いピンをまだ追加していない場合は、マップをタップして、目的の位置にピンを追加します。
+3. [衛星画像を読み込む]をタップして、その位置の航空写真を表示します。
+
+![](Images/GUID-9D98799F-8780-4B59-95B6-F9DC6137BFF2-low.png)
+
+4. 拡大表示または縮小表示して、適切な方向を取得します。
+5. [読み込みを終了]をタップして、操作を完了します。
+

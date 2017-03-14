@@ -1,11 +1,15 @@
-# Place Content
 
-----
 
-Use the data from a content library file in a design.
- 
-Note If you have linked your library locally, and then start a new FormIt 360 Web session, you will need to re-link the Content Library.
-1. Tap a thumbnail image.
-2. Drag and drop the content onto the canvas, or tap the thumbnail, move your finger onto the canvas, and then tap again to place.
+# コンテンツを配置する
+
+---
+
+設計でコンテンツ ライブラリ ファイルのデータを使用します。
+
+注: ライブラリにローカルでリンクした後、新しい FormIt 360 Web セッションを開始する場合は、コンテンツ ライブラリのリンクを設定し直す必要があります。
+
+1. サムネイル イメージをタップします。
+2. キャンバス上でコンテンツをドラッグ アンド ドロップするか、サムネイルをタップして、キャンバス上で指を動かし、もう一度タップして配置します。
 
 ![](Images/GUID-06277C2F-5F72-4F85-8576-E50177357B94-low.png)
+

@@ -1,14 +1,18 @@
-# Edit Group
 
-----
 
-Update or make changes to an existing group.
+# グループを編集する
 
-1. Tap on the group you wish to edit.
-2. Display the Context Menu and tap the Edit Group icon ![](Images/GUID-1775EC3C-EB94-47D4-91D9-E4EB0D076D63-low.png) or use a double tap as a shortcut into edit mode.
-3. Modify geometry to make edits to group objects. 
-    
-    You can use the Undo/Redo arrows within edit mode to erase or duplicate your most recent change. Once you exit edit mode, these tools make changes to the full drawing as before. They will no longer affect the group.
-4. When you complete your edits, tap Done in the upper left corner. 
-    
-    ![](Images/GUID-5C1FF4F8-0EEC-420B-8E86-FDC090905F42-low.png)
+---
+
+既存のグループを更新または変更します。
+
+1. 編集するグループをタップします。
+2. コンテキスト メニューを表示し、[グループを編集]アイコン ![](Images/GUID-1775EC3C-EB94-47D4-91D9-E4EB0D076D63-low.png) をタップするか、ダブルタップの動作(モード切り替えのショートカット)で編集モードに切り替えます。
+3. ジオメトリを修正してグループ オブジェクトを編集します。
+
+編集モードで[元に戻す]/[やり直し]矢印を使用すると、最後に加えた変更を削除または複製できます。編集モードを終了すると、従来どおり全図面に変更が適用され、グループには影響しなくなります。
+
+4. 編集が完了したら、左上隅にある[完了]をタップします。
+
+![](Images/GUID-5C1FF4F8-0EEC-420B-8E86-FDC090905F42-low.png)
+

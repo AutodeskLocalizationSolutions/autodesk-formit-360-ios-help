@@ -1,26 +1,29 @@
-# User Interface tools
 
-----
 
-Reference for command interaction tools.
- 
-* ![](Images/GUID-04A6C825-C1EB-4092-BEF6-9C20E9428677-low.png)Save the Sketch: Tap to save the current sketch and return to the gallery.
-* ![](Images/GUID-7DCFC00B-398E-433C-9182-9C7EE7CBD711-low.png)Set the name: Tap to bring up a keyboard and change the name of your sketch.
-* ![](Images/GUID-5B051083-621A-4688-85B0-1001C6678DAB-low.png) Login to Autodesk 360: Use the Autodesk 360 Cloud Services for FREE to store and share your sketches.
-* With the View Settings menu, you can choose from a selection of preset views. These views will allow you to quickly visualize your model from different perspectives and zoom levels. 
-    
-    ![](Images/GUID-C7DD69E5-ACA9-46BA-8F0A-943ABEBF46D0-low.png)
+# ユーザ インタフェース ツール
 
-## The Action Bar
+---
 
-* The action bar is found on the bottom of your screen. The tools in the action bar will help you create, edit, and share content.
+コマンド操作ツールを紹介します。
+
+* ![](Images/GUID-04A6C825-C1EB-4092-BEF6-9C20E9428677-low.png)スケッチを保存: これをタップすると、現在のスケッチが保存され、ギャラリーに戻ります。
+* ![](Images/GUID-7DCFC00B-398E-433C-9182-9C7EE7CBD711-low.png)名前を設定: これをタップすると、キーボードが表示されるため、スケッチの名前を変更できます。
+* ![](Images/GUID-5B051083-621A-4688-85B0-1001C6678DAB-low.png) Autodesk 360 にログイン: 無償の Autodesk 360 クラウド サービスにスケッチを保存し、共有することができます。
+* [ビュー設定]メニューでは、一連のプリセット ビューから選択することができます。これらのビューでは、モデルをさまざまなパースやズーム レベルですばやく表示できます。
+
+![](Images/GUID-C7DD69E5-ACA9-46BA-8F0A-943ABEBF46D0-low.png)
+
+## アクション バー
+
+* アクション バーは画面の下部にあります。アクション バーのツールを使用すると、コンテンツを作成、編集、共有できます。
 
 ![](Images/GUID-51EF19EC-8B3A-4FB9-A910-084101F760D0-low.png)
 
-* ![](Images/GUID-4EF71987-2628-429E-A1B1-662572349FA0-low.png) Create Geometry: Tap to bring up a menu of creation tools that will help you draw shapes and primitives.
-* ![](Images/GUID-F37890D4-292C-4E34-80FB-BE458BC41EFE-low.png)Change the Lighting and Shadows: Use this tool to change the date and time of day, and to launch a Solar Analysis (Pro only).
-* ![](Images/GUID-038A2E9F-B454-4AA7-8CB2-81A994DEAC15-low.png) Set the Location: Search for a location and import satellite imagery into your sketch. For more information on setting the location of your sketch, see [Location](../../Location/README.md) .
-* ![](Images/GUID-8337F835-6D02-4C5B-BCF4-C15C128A5B04-low.png)Energy Analysis: Perform an analysis of a design's energy usage.
-* ![](Images/GUID-94E05CFD-1805-485C-8332-E3F064917F65-low.png) Import Images and Models: Have content you want to import? Use this tool to add images and models you created with other programs.
-* ![](Images/GUID-0FD289AF-E305-498C-8EBB-6C1676E1AEBE-low.png)Share your work: Want to share your work with others? Email your sketch or even share with other nearby devices the AXM file of your work via AirDrop.
-* ![](Images/GUID-ED703137-B376-4A00-BB09-45C9547F6591-low.png)Need more help?: Use the information tools to learn more about FormIt 360.
+* ![](Images/GUID-4EF71987-2628-429E-A1B1-662572349FA0-low.png) ジオメトリを作成: これをタップすると、形状やプリミティブを描画できる作成ツールのメニューが表示されます。
+* ![](Images/GUID-F37890D4-292C-4E34-80FB-BE458BC41EFE-low.png)光源と影を変更: このツールを使用すると、日時を変更したり、日照解析を起動することができます(Pro のみ)。
+* ![](Images/GUID-038A2E9F-B454-4AA7-8CB2-81A994DEAC15-low.png) 位置を設定: 位置を検索し、衛星画像をスケッチに読み込みます。 スケッチの位置の設定方法について詳しくは、「[位置](../../Location/README.md)」を参照してください。
+* ![](Images/GUID-8337F835-6D02-4C5B-BCF4-C15C128A5B04-low.png)エネルギー解析: 設計のエネルギー使用量を解析します。
+* ![](Images/GUID-94E05CFD-1805-485C-8332-E3F064917F65-low.png) イメージとモデルを読み込み: コンテンツを読み込む必要がある場合は、 このツールを使用すると、他のプログラムで作成したイメージやモデルを追加することができます。
+* ![](Images/GUID-0FD289AF-E305-498C-8EBB-6C1676E1AEBE-low.png)作業を共有: 他ユーザと作業を共有するには、 スケッチを電子メールで送信します。また、作業対象の AXM ファイルを AirDrop 経由で近くのデバイスに共有することもできます。
+* ![](Images/GUID-ED703137-B376-4A00-BB09-45C9547F6591-low.png)さらなるヘルプが必要な場合: FormIt 360 の詳細情報が必要な場合は、この情報ツールを使用します。
+
