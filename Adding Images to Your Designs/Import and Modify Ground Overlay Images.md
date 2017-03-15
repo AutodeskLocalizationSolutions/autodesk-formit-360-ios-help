@@ -1,24 +1,27 @@
-# Import and Modify Ground Overlay Images
 
-----
 
-Acquire images for your design canvas and alter them if desired.
+# 地面オーバーレイ イメージを読み込み、修正する
 
-## Importing Ground Overlay Images
+---
 
-1. To import an image, select the Import button from the bottom toolbar and tap Images.
-2. Select to allow access to your photos and select Camera Roll.
+設計キャンバスのイメージを取得し、必要に応じて変更します。
+
+## 地面オーバーレイ イメージを読み込む
+
+1. イメージを読み込むには、下部にあるツールバーの[読み込み]ボタンを選択し、イメージをタップします。
+2. 写真へのアクセスを選択して許可し、カメラ ロールを選択します。
 
 ![](Images/GUID-0B507623-A63D-4EC4-AC50-3B58AA187D8A-low.png)
 
-1. Select an image from your Camera Roll or Photo Stream
+1. カメラ ロールまたはフォト ストリームからイメージを選択します。
 
-Your image will be automatically imported into the canvas.
+イメージが自動的にキャンバスに読み込まれます。
 
-## Modify Ground Overlay Images
+## 地面オーバーレイ イメージを修正する
 
-1. Use the palette on the right-side of the screen to modify image properties.
-2. From the palette, you can edit the image's name and transparency.
-3. Drag and Drop using the Vertical Order panel to organize the placement (order) of all the ground overlay images, including any imported satellite imagery. 
-    
-    ![](Images/GUID-578B6BC6-50DD-4AD4-8BE1-8B232EC66E59-low.png)
+1. 画面の右側にあるパレットを使用して、イメージのプロパティを修正します。
+2. パレットではイメージの名前と透過度を編集できます。
+3. [縦方向に表示]パネルを使用してドラッグ アンド ドロップし、読み込んだ衛星画像を含め、すべての地面オーバーレイ イメージの配置(順序)を編成します。
+
+![](Images/GUID-578B6BC6-50DD-4AD4-8BE1-8B232EC66E59-low.png)
+

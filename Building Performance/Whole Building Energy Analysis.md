@@ -1,24 +1,26 @@
-# Whole Building Energy Analysis
 
-----
 
-Evaluate factors that affect building performance, such a wall insulation and HVAC efficiency.
- 
+# 建物全体のエネルギー解析
 
-Autodesk FormIt 360 Pro Only
+---
 
-The FormIt 360 Pro Energy Analysis feature allows you to better understand how your design will perform based on a number of factors. To get started, you must first set a Location for your project and have at least one solid object with Levels applied. Tap the Energy Analysis button ![](Images/GUID-4B5571DF-D3B2-4693-85FF-5BED468431BB-low.png)to open the Energy Analysis Dashboard.
+壁の断熱、HVAC 効率など、建物パフォーマンスに影響を及ぼす要素を評価します。
+
+Autodesk Formit 360 Pro のみ
+
+FormIt 360 Pro のエネルギー解析機能を使用すると、多くの要因に基づいて設計のパフォーマンスがどのように変化するかを明確に把握できます。この機能を使用するには、まずプロジェクトの位置を設定し、少なくとも 1 つのソリッド オブジェクトにレベルを適用する必要があります。[エネルギー解析]ボタン ![](Images/GUID-4B5571DF-D3B2-4693-85FF-5BED468431BB-low.png) をタップすると、[エネルギー解析]ダッシュボードが開きます。
 
 ![](Images/GUID-3E4C5B8A-ECB5-4705-A0BA-876F0E53E35C-low.png)
 
-Before you analyze your own model, you can open the Building Form widget to review 13 previously modeled forms. To see how these forms will perform in the current project location, tap the form and then tap the X to close this window.
+ユーザ独自のモデルを解析する前に、[建物フォーム]ウィジェットを開いて、以前にモデル化した 13 個のフォームを確認することができます。プロジェクトの現在の位置でこれらのフォームがどのようなパフォーマンスを発揮するかを確認するには、フォームをタップした後で、[X]をタップしてこのウィンドウを閉じます。
 
 ![](Images/GUID-BC1697A6-5AE3-42C8-855A-253F7047657A-low.jpg)
 
-The Energy Analysis Dashboard is now filled with a number of Factor Widgets.
+[エネルギー解析]ダッシュボードに、多数の要因ウィジェットが表示されます。
 
 ![](Images/GUID-C96F9F10-F0AB-4F52-B6E3-94D184E5DB28-low.jpg)
 
-When you open a Factor Widget, you can vary the factors to see how it affects the Energy Cost Mean.
+要因ウィジェットを開くと、要因を変化させて、それがエネルギー コストの平均値にどのように影響するかを確認することができます。
 
 ![](Images/GUID-3E6202EB-6402-4C51-877A-76363729359A-low.png)
+

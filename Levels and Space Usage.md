@@ -1,25 +1,29 @@
-# Levels and Space Usage
 
-----
 
-See area calculations for objects in a design.
+# レベルとスペースの用途
 
-## Enable Levels
+---
 
-1. Tap on the Settings icon on the bottom toolbar.
-2. Select Levels to specify the height of each level. 
-    
-    ![](Images/GUID-DFE15CBB-56BC-4D9C-BAF1-C2558AF181E2-low.png)
-3. Specify the levels that are applied to each object in the sketch . 
-    
-    Use the + (plus) or double ++ symbols to add values.
-    
-    ![](Images/GUID-2CE56EDC-1C31-4716-BBFE-FDF14F5DEC86-low.png)
+設計内のオブジェクトの面積計算を表示します。
 
-## Properties and Space Usage
+## レベルを有効にする
 
-Open the right-side palette to the Properties tab to view or edit the properties of selected individual objects in a sketch. Under Properties, you can edit the object's name, see its volume/area, or toggle/edit levels.
+1. 下部にあるツールバーで[設定]アイコンをタップします。
+2. [レベル]を選択して、各レベルの高さを指定します。
 
-* As you add geometry, the Gross Area and Floor Area Ratio will automatically update for the entire sketch. To activate this feature and add individual elements to these figures, the Area by Level toggle must be enabled on each object. 
-    
-    ![](Images/GUID-6AF1DFC5-77D0-4AE2-8BA1-74E41A67F5EF-low.png)
+![](Images/GUID-DFE15CBB-56BC-4D9C-BAF1-C2558AF181E2-low.png)
+
+3. スケッチ内の各オブジェクトに適用するレベルを指定します。
+
+[+] (プラス)記号または二重の[++]記号を使用して、値を追加します。
+
+![](Images/GUID-2CE56EDC-1C31-4716-BBFE-FDF14F5DEC86-low.png)
+
+## プロパティとスペースの用途
+
+スケッチで選択した個々のオブジェクトのプロパティを表示または編集するには、[プロパティ]タブの右側にあるパレットを開きます。[プロパティ]では、オブジェクトの名前を編集したり、その体積や面積を表示したり、レベルを切り替え、編集することができます。
+
+* ジオメトリを追加すると、スケッチ全体で[総面積]と[床面積率]が自動的に更新されます。この機能をアクティブにして、これらの数値に個別の要素を追加するには、各オブジェクトで[レベル別の領域]をオンにする必要があります。
+
+![](Images/GUID-6AF1DFC5-77D0-4AE2-8BA1-74E41A67F5EF-low.png)
+

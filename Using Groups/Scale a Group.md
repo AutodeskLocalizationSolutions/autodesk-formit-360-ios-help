@@ -1,14 +1,16 @@
-# Scale a Group
 
-----
 
-Scale a Group instance while maintaining the relationship to other instances
- 
+# グループを拡大/縮小する
 
-An instance of a Group can be scaled and still maintain the relationship between the different instances of the group even though they are different sizes.
+---
 
-1. Select a Group instance
-2. Tap and hold the Group instance to display the Context Menu and tap the Scale button ![](Images/GUID-AA1EDCA0-B86D-4C6D-952F-5A702D29E536-low.png)
-3. Edit the scaled Group instance by double-tapping it. Note that the other smaller group instances also react to the change.
+他のインスタンスとの関係性を維持しながらグループ インスタンスを拡大/縮小します。
+
+1 つのグループ インスタンスを拡大/縮小した場合、グループ内の他のインスタンスとの関係は、インスタンスのサイズを問わず維持されます。
+
+1. グループ インスタンスを 1 つ選択します。
+2. グループ インスタンスを長押ししてコンテキスト メニューを表示し、[スケール]ボタン ![](Images/GUID-AA1EDCA0-B86D-4C6D-952F-5A702D29E536-low.png) をタップします。
+3. 拡大/縮小するグループ インスタンスをダブルタップして編集します。この編集操作は、他の小規模なグループ インスタンスにも影響することに注意してください。
 
 ![](Images/GUID-EA6E68CA-6064-4559-A07C-6A8DCD16B3BC-low.png)
+

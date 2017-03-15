@@ -1,13 +1,15 @@
-# Visual Format Options
 
-----
 
-Description of choices for visual style.
+# 表示形式のオプション
 
-### Visual Style Options
+---
+
+表示スタイルの選択肢について説明しています。
+
+### [表示スタイル]オプション
 
 | | |
 | ---- | ---- |
-| ![](Images/GUID-BAD43E18-CA43-4B99-BA99-8E0FBFB9A892-low.png)   |   <br>* *Snap to Grid*: Toggle to turn grid snaps on and off.<br>* *Edge Contrast:* Raise or lower the contrast of how edges are displayed.<br>* *Silhouette Contrast:*Raise or lower the contrast of how silhouette edges are displayed.<br>* *Units*: Specify the sketch's units, Imperial or Metric<br>* *Visual Styles:* Change the appearance of your sketch by toggling features like sketchy lines, hidden lines, or extended lines. <br>    * *Display sketchy lines*: Change the appearance of your sketch by toggling making lines to appear that they have been sketched by hand<br>    * *Show hidden lines*: Display faint lines that are normally hidden by other faces<br>    * **Extend lines*: *Display short extensions where lines intersect<br>    * *Thick edges*: Widest lines possible<br>    * *Hide edges*: Toggle this feature to turn off edges in your model.<br>* *Levels*: Edit Level heights for the entire sketch (see Apply Levels for more details)<br>* *Display Levels: *Toggle the visibility of levels<br>  |
-| ![](Images/GUID-29D35485-A0EA-445B-AE2E-52EBD3BA3268-low.png)   |   <br>* *Display Grid:* Toggle the visibility of the grid<br>* *Display axes: *Toggle the visibility of the coordinate system axes<br>* *Display north arrow: *Toggle the visibility of the north arrow<br>* *Show Watertight Issue: *Used for 3D printing to ensure model integrity<br>  |
+|![](Images/GUID-BAD43E18-CA43-4B99-BA99-8E0FBFB9A892-low.png)|* *グリッドにスナップ*: この機能を切り替えてグリッドへのスナップをオンまたはオフにします。* *エッジのコントラスト:* エッジを表示する際のコントラストを上下します。* *シルエットのコントラスト:* シルエット エッジを表示する際のコントラストを上下します。* *単位:* スケッチの単位(インチ/フィートまたはメートル)を指定します。* *表示スタイル:* 手書き風の線、隠線、延長線などの表示を切り替えて、スケッチの外観を変更します。 * *手書き風の線を表示*: 手書きでスケッチされたような線の表示/非表示を切り替えて、スケッチの外観を変更します。 * *隠線を表示*: 通常は他の面に隠れて非表示になる線を薄く表示します。 * **延長線*: *線が交差する部分の短い延長線を表示します。 * *厚いエッジ*: 最大幅の線。 * *エッジを非表示*: モデルのエッジ表示をオフにするには、この機能を切り替えます。* *レベル*: スケッチ全体のレベルの高さを編集します(詳細については、「レベルを適用する」を参照してください)。* *レベルを表示: *レベルの表示/非表示を切り替えます。|
+|![](Images/GUID-29D35485-A0EA-445B-AE2E-52EBD3BA3268-low.png)|* *グリッドを表示*: グリッドの表示/非表示を切り替えます。* *軸を表示: *座標系の軸の表示/非表示を切り替えます。* *北向き矢印を表示: *北向き矢印の表示/非表示を切り替えます。* *密閉性に関する問題を表示: *3D プリントの場合に、モデルの整合性を保つために使用します。|
 

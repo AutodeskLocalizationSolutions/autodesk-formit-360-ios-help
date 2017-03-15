@@ -1,14 +1,16 @@
-# Welcome to Autodesk FormIt 360 and FormIt 360 Pro
 
-----
 
-Discover how to create conceptual building designs while initiating a BIM workflow.
- 
+# Autodesk FormIt 360 および FormIt 360 Pro へようこそ
 
-Use Autodesk ®  FormIt ®  360 to capture building design concepts when ideas occur. Create those ideas in a portable digital format that can use real-world site information, such as satellite images, to orient your designs. Use real building and environmental data to support design brainstorming. Move your preliminary designs to centralized data storage for access and refinement in Autodesk ®  Revit ®  software or other applications.
+---
 
-[ What'sNew](https://www.youtube.com/playlist?list=PLqumTDi1CVHMCJkO9l3aX5vVK3GdBmxnx)
+このセクションでは、BIM ワークフローを使用してコンセプト建物モデルを作成する方法について説明します。
 
-* Contextual Menu 
-    
-    ![](Images/GUID-CD1BF99B-8D4D-4F82-833C-BF7F8B243BDD-low.png)
+Autodesk® FormIt® 360 を使用すると、思いついたアイデアをすぐに建築設計コンセプトとして具体化することができます。 これらのアイデアをポータブルなディジタル形式として作成し、実際の現場の情報(衛星画像など)を使用して、適切に設計を進めることができます。実際の建築データや環境データを使用して、設計のブレインストームを行ってください。予備設計を中央のデータ ストレージに保管すると、Autodesk® Revit® などのソフトウェアやアプリケーションからその予備設計にアクセスして編集できるようになります。
+
+[ 新機能](https://www.youtube.com/playlist?list=PLqumTDi1CVHMCJkO9l3aX5vVK3GdBmxnx)
+
+* コンテキスト メニュー
+
+![](Images/GUID-CD1BF99B-8D4D-4F82-833C-BF7F8B243BDD-low.png)
+

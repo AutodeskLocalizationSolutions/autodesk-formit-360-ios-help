@@ -1,13 +1,16 @@
-# Modify: Tilt, Array, Copy/Paste
 
-----
 
-Create more complex designs by making alterations to previously drawn shapes.
+# 修正: 傾斜を適用、配列化、コピー、貼り付け
 
-## Modify Geometry
+---
 
-To create more complex designs after sketching a shape or placing a primitive, you can use several contextual tools to modify your geometry. These operations include: Tilt, Facet (Web-only), Copy/Paste, and Array.
+以前に描画した形状を変更して、より複雑な設計を作成します。
 
-1. ![](Images/GUID-7AC231BB-97FF-40FC-B844-7DF936874F04-low.gif)To tilt a face, select a face, and long press to see the context menu. Then choose the tilt icon from the context menu. Next, define the tilt axis by drawing a line. Then, tap a third point to start the tilt operation.
-2. ![](Images/GUID-B4131EF1-18F5-453C-B430-22B79D6AC0DB-low.gif)To copy and paste faces, edges, or objects, first select then choose the copy icon from the context menu. Then, bring up the context menu again to paste. When pasting you will have snap and inference options. Make a quick copy by dragging an object using a two-finger drag.
-3. ![](Images/GUID-A5913264-8D07-4E5C-9B4F-E65E6071DAD3-low.gif)To array edges, faces, or entire objects, click on the array icon from the context menu. Next, specify the array parameters. Then, similar to the move tool - tap the object to start an array, and tap again to place arrayed elements.
+## ジオメトリを変更する
+
+形状をスケッチするか、プリミティブを配置した後、より複雑な設計を作成するには、いくつかのコンテキスト ツールを使用してジオメトリを修正します。修正操作としては、[傾斜]、[ファセット] (Web 専用)、[コピー]、[貼り付け]、[配列]などがあります。
+
+1. ![](Images/GUID-7AC231BB-97FF-40FC-B844-7DF936874F04-low.gif)面を傾斜させるには、面を選択し、長押しして、コンテキスト メニューを表示します。 コンテキスト メニューから[傾斜]アイコンを選択します。次に、線分を描画して傾斜軸を定義します。さらに、3 番目の点をタップして、傾斜操作を開始します。
+2. ![](Images/GUID-B4131EF1-18F5-453C-B430-22B79D6AC0DB-low.gif)面、エッジ、またはオブジェクトをコピーして貼り付けるには、最初にそのいずれかを選択し、コンテキスト メニューから[コピー]アイコンを選択します。 コンテキスト メニューをもう一度表示して、貼り付けます。貼り付けるときには、スナップと推定配置点のオプションが表示されます。2 本指でオブジェクトをドラッグすると、すばやくコピーできます。
+3. ![](Images/GUID-A5913264-8D07-4E5C-9B4F-E65E6071DAD3-low.gif)エッジ、面、またはオブジェクト全体を選択するには、コンテキスト メニューの[配列]アイコンをクリックします。 次に、配列のパラメータを指定します。移動ツールの場合と同様に、配列を開始するオブジェクトをタップし、もう一度タップして、配列化された要素を配置します。
+

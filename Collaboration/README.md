@@ -1,42 +1,45 @@
-# Collaboration
-
-----
-
-Work simultaneously with others on the same sketch, or share your work later.
-NoteYou will need a free [Autodesk 360](https://360.autodesk.com) account to use collaboration features.
-* Use the Collaboration palette to start and manage sharing sessions. 
-    
-    ![](Images/GUID-35692CAF-5EBD-4707-BB16-85EC8964857B-low.png)
-* You can start a collaboration session and let others see your design and see any edits you make. 
-    
-    ![](Images/GUID-854D2503-24C9-4F16-ABBC-8732EC90570A-low.png)
-
-In addition to simultaneous collaboration through shared sessions, you can share the work you have created in various other ways. From emailing images of your design, to exporting your sketches so that they can be used in other programs, you can easily let others review your work. 
-* Sharing options can be accessed from the Action toolbar by tapping on the Export icon. You can share your work through: 
-    
-    ![](Images/GUID-FF9BE849-5942-402D-BAE4-E41937132925-low.png)
 
 
-* Export/Save to OBJ: If you want to open your work in another program, export an OBJ that will automatically be saved in your Autodesk 360 FormIt 360 folder as a ZIP file.
-* Email: Select the Mail option, and you can email a snapshot of your current state of work through your chosen email provider.
-* AirDrop: Use AirDrop via WiFi or Bluetooth to share the AXM file of your work with other nearby devices.
-* Print: Use the print option to send a snapshot of your work to a nearby AirPrint printer.
+# コラボレーション
 
-#### See Also
+---
 
-* [Saving Your Work ](../../Manage Your Data/Saving Your Work.md)
+同じスケッチで他のユーザと同時に作業したり、作業内容を後で共有します。注: コラボレーション機能を使用するには、無償の [Autodesk 360](https://360.autodesk.com) アカウントが必要です。
 
-  
+* セッション共有を開始および管理するには、コラボレーション パレットを使用します。
 
-#### Topics in this section
+![](Images/GUID-35692CAF-5EBD-4707-BB16-85EC8964857B-low.png)
 
-* [Start and Stop Collaborative Sessions](../Start and Stop Collaborative Sessions.md)
-    
-    Invite other people to work on the same design project.
-* [Joining a Session](../Joining a Session.md)
-    
-    Become part of a collaboration.
-* [Chat with Collaborators ](../Chat with Collaborators.md)
-    
-    Engage in dialog as you design.
+* コラボレーション セッションを開始すると、設計内容や編集内容を他のユーザが表示できるようになります。
+
+![](Images/GUID-854D2503-24C9-4F16-ABBC-8732EC90570A-low.png)
+
+共有セッションを通じた同時コラボレーションに加えて、他のさまざまな方法で作成した作業内容を共有できます。設計イメージを電子メールで送信したり、スケッチを書き出すことにより、作業内容を他のプログラムで使用できるようになるため、他のユーザがレビューしやすくなります。
+
+* 共有オプションにアクセスするには、アクション ツールバーの[書き出し]アイコンをタップします。作業は次の方法で共有できます。
+
+![](Images/GUID-FF9BE849-5942-402D-BAE4-E41937132925-low.png)
+
+* OBJ に書き出す/保存する: 別のプログラムで行った作業を開くには、OBJ に書き出します。これにより自動的に、Autodesk 360 FormIt 360 フォルダに ZIP ファイルとして保存されます。
+* 電子メール: メール オプションを選択すると、選択した電子メール プロバイダ経由で、作業の現在の状態をスナップショットとして電子メールで送信できます。
+* AirDrop: Wi-Fi または Bluetooth 経由で AirDrop を使用して、作業対象の AXM ファイルを近くにある他のデバイスと共有します。
+* プリント: プリント オプションを使用すると、現在の作業のスナップショットを近くにある AirPrint プリンタへ送信できます。
+
+#### 参照
+
+* [作業内容を保存する](../../Manage Your Data/Saving Your Work.md)
+
+#### このセクションの内容
+
+* [コラボレーション セッションを開始および停止する](../Start and Stop Collaborative Sessions.md)
+
+同じ設計プロジェクトで作業できるように、他のユーザを招待します。
+
+* [セッションに参加する](../Joining a Session.md)
+
+コラボレーションに参加します。
+
+* [共有メンバーとチャットする ](../Chat with Collaborators.md)
+
+設計時にメンバーと会話します。
 

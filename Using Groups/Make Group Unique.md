@@ -1,8 +1,11 @@
-# Make Group Unique
 
-----
 
-Copy a set of objects and then disconnect them from the originals.
+# グループをユニークにする
 
-1. Tap on a group to select it.
-2. Display the Context Menu and tap the Make Unique icon.![](Images/GUID-456D1A2E-E90D-44DA-9F51-A8E8ADD140EF-low.png)
+---
+
+オブジェクト セットをコピーした後、元のグループから切り離します。
+
+1. グループをタップして選択します。
+2. コンテキスト メニューを表示して、[ユニークにする]アイコン ![](Images/GUID-456D1A2E-E90D-44DA-9F51-A8E8ADD140EF-low.png) をタップします。
+

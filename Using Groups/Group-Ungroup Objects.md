@@ -1,15 +1,17 @@
-# Group/Ungroup Objects
 
-----
 
-Place geometry into groups to allow easier manipulation, keep objects distinct from one another, and create parent/child relationships between objects
+# オブジェクトをグループ化する/グループ化を解除する
 
-#### Group Objects
+---
 
-1. Tap on the objects you want to group (faces or objects).
-2. Press and hold near those objects to display the Context Menu.
-3. Tap the Group icon.![](Images/GUID-707B7A65-A41E-4902-AE27-EAE8AA30DAF5-low.png)
+ジオメトリをグループに配置すると、簡単に操作することができ、オブジェクトの識別が容易になり、オブジェクト間に親子関係を作成することができます。
 
-#### Ungroup Objects
+#### オブジェクトをグループ化する
 
-1. To ungroup an already grouped set of selected objects, tap the Ungroup icon.![](Images/GUID-5CCA5633-E2DA-42A9-BD53-ED3D3E053650-low.png)
+1. グループ化するオブジェクト(面またはオブジェクト)をタップします。
+2. オブジェクト付近を長押しすると、コンテキスト メニューが表示されます。
+3. [グループ]アイコン ![](Images/GUID-707B7A65-A41E-4902-AE27-EAE8AA30DAF5-low.png) をタップします。
+#### オブジェクトのグループ化を解除する
+
+1. 既にグループ化されている一連の選択済みオブジェクトのグループ化を解除するには、[グループ化を解除]アイコン ![](Images/GUID-5CCA5633-E2DA-42A9-BD53-ED3D3E053650-low.png) をタップします。
+
